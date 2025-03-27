@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "id": "P001",
+            "name": "Gaming Laptop",
+            "category": "Electronics",
+            "price": 1299.99,
+            "stock": 50
+        },
+        {
+            "id": "P002",
+            "name": "Wireless Mouse",
+            "category": "Accessories",
+            "price": 39.99,
+            "stock": 200
+        },
+        {
+            "id": "P003",
+            "name": "Mechanical Keyboard",
+            "category": "Accessories",
+            "price": 129.99,
+            "stock": 100
+        }
+    ]
+}

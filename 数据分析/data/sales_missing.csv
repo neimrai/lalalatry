@@ -1,0 +1,13 @@
+Date,Product,Category,Quantity,Price,Customer,Region,Payment
+2025-01-01,Laptop,Electronics,5,999.99,John Smith,North,Credit Card
+2025-01-02,Mouse,Accessories,,29.99,Mary Johnson,South,
+2025-01-02,Keyboard,Accessories,8,,Peter Wang,East,Cash
+2025-01-03,,Electronics,3,299.99,,North,Credit Card
+2025-01-03,Laptop,Electronics,0,999.99,Sarah Brown,,Debit Card
+2025-01-04,Mouse,Accessories,15,29.99,David Miller,West,
+,Monitor,Electronics,2,399.99,Lisa Chen,South,Credit Card
+2025-01-05,Printer,,4,,Tom Wilson,East,Cash
+2025-01-05,Keyboard,Accessories,-1,89.99,,,PayPal
+2025-01-06,Mouse,Accessories,12,29.99,Emma Davis,West,
+2025-01-06,,,,199.99,James Lee,North,Credit Card
+2025-01-07,Laptop,Electronics,,999.99,,,
